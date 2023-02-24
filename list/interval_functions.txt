@@ -1,0 +1,6 @@
+total count: 5 at https://cloud.google.com/bigquery/docs/reference/standard-sql/interval_functions
+- [ ] MAKE_INTERVAL
+- [ ] EXTRACT
+- [ ] JUSTIFY_DAYS
+- [ ] JUSTIFY_HOURS
+- [ ] JUSTIFY_INTERVAL

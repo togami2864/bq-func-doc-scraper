@@ -1,0 +1,8 @@
+total count: 7 at https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions
+- [ ] FIRST_VALUE
+- [ ] LAST_VALUE
+- [ ] NTH_VALUE
+- [ ] LEAD
+- [ ] LAG
+- [ ] PERCENTILE_CONT
+- [ ] PERCENTILE_DISC

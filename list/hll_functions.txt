@@ -1,0 +1,5 @@
+total count: 4 at https://cloud.google.com/bigquery/docs/reference/standard-sql/hll_functions
+- [ ] HLL_COUNT.INIT
+- [ ] HLL_COUNT.MERGE
+- [ ] HLL_COUNT.MERGE_PARTIAL
+- [ ] HLL_COUNT.EXTRACT

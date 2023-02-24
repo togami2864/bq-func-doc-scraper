@@ -1,0 +1,10 @@
+total count: 9 at https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions
+- [ ] ARRAY
+- [ ] ARRAY_CONCAT
+- [ ] ARRAY_LENGTH
+- [ ] ARRAY_TO_STRING
+- [ ] GENERATE_ARRAY
+- [ ] GENERATE_DATE_ARRAY
+- [ ] GENERATE_TIMESTAMP_ARRAY
+- [ ] ARRAY_REVERSE
+- [ ] OFFSET and ORDINAL

@@ -1,0 +1,10 @@
+total count: 9 at https://cloud.google.com/bigquery/docs/reference/standard-sql/time_functions
+- [ ] CURRENT_TIME
+- [ ] TIME
+- [ ] EXTRACT
+- [ ] TIME_ADD
+- [ ] TIME_SUB
+- [ ] TIME_DIFF
+- [ ] TIME_TRUNC
+- [ ] FORMAT_TIME
+- [ ] PARSE_TIME

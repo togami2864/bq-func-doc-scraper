@@ -1,0 +1,5 @@
+total count: 4 at https://cloud.google.com/bigquery/docs/reference/standard-sql/approximate_aggregate_functions
+- [ ] APPROX_COUNT_DISTINCT
+- [ ] APPROX_QUANTILES
+- [ ] APPROX_TOP_COUNT
+- [ ] APPROX_TOP_SUM

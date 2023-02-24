@@ -1,0 +1,11 @@
+total count: 6 at https://cloud.google.com/bigquery/docs/reference/standard-sql/federated_query_functions
+- [ ] EXTERNAL_QUERY
+- [ ] Data type mappings
+MySQL to BigQuery type mapping
+PostgreSQL to BigQuery type mapping
+Unsupported MySQL and PostgreSQL data types
+Spanner to BigQuery type mapping
+- [ ] MySQL to BigQuery type mapping
+- [ ] PostgreSQL to BigQuery type mapping
+- [ ] Unsupported MySQL and PostgreSQL data types
+- [ ] Spanner to BigQuery type mapping

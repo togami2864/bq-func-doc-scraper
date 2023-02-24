@@ -1,0 +1,13 @@
+total count: 12 at https://cloud.google.com/bigquery/docs/reference/standard-sql/date_functions
+- [ ] CURRENT_DATE
+- [ ] EXTRACT
+- [ ] DATE
+- [ ] DATE_ADD
+- [ ] DATE_SUB
+- [ ] DATE_DIFF
+- [ ] DATE_TRUNC
+- [ ] DATE_FROM_UNIX_DATE
+- [ ] FORMAT_DATE
+- [ ] LAST_DAY
+- [ ] PARSE_DATE
+- [ ] UNIX_DATE

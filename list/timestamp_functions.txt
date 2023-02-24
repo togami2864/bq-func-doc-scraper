@@ -1,0 +1,18 @@
+total count: 17 at https://cloud.google.com/bigquery/docs/reference/standard-sql/timestamp_functions
+- [ ] CURRENT_TIMESTAMP
+- [ ] EXTRACT
+- [ ] STRING
+- [ ] TIMESTAMP
+- [ ] TIMESTAMP_ADD
+- [ ] TIMESTAMP_SUB
+- [ ] TIMESTAMP_DIFF
+- [ ] TIMESTAMP_TRUNC
+- [ ] FORMAT_TIMESTAMP
+- [ ] PARSE_TIMESTAMP
+- [ ] TIMESTAMP_SECONDS
+- [ ] TIMESTAMP_MILLIS
+- [ ] TIMESTAMP_MICROS
+- [ ] UNIX_SECONDS
+- [ ] UNIX_MILLIS
+- [ ] UNIX_MICROS
+- [ ] How time zones work with timestamp functions

@@ -1,0 +1,2 @@
+total count: 1 at https://cloud.google.com/bigquery/docs/reference/standard-sql/search_functions
+- [ ] SEARCH

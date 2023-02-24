@@ -1,0 +1,20 @@
+total count: 19 at https://cloud.google.com/bigquery/docs/reference/standard-sql/json_functions
+- [ ] Function overview
+- [ ] JSON_EXTRACT
+- [ ] JSON_QUERY
+- [ ] JSON_EXTRACT_SCALAR
+- [ ] JSON_VALUE
+- [ ] JSON_EXTRACT_ARRAY
+- [ ] JSON_QUERY_ARRAY
+- [ ] JSON_EXTRACT_STRING_ARRAY
+- [ ] JSON_VALUE_ARRAY
+- [ ] PARSE_JSON
+- [ ] TO_JSON
+- [ ] TO_JSON_STRING
+- [ ] STRING
+- [ ] BOOL
+- [ ] INT64
+- [ ] FLOAT64
+- [ ] JSON_TYPE
+- [ ] JSON encodings
+- [ ] JSONPath format

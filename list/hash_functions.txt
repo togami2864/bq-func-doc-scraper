@@ -1,0 +1,6 @@
+total count: 5 at https://cloud.google.com/bigquery/docs/reference/standard-sql/hash_functions
+- [ ] FARM_FINGERPRINT
+- [ ] MD5
+- [ ] SHA1
+- [ ] SHA256
+- [ ] SHA512

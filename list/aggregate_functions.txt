@@ -1,0 +1,16 @@
+total count: 15 at https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions
+- [ ] ANY_VALUE
+- [ ] ARRAY_AGG
+- [ ] ARRAY_CONCAT_AGG
+- [ ] AVG
+- [ ] BIT_AND
+- [ ] BIT_OR
+- [ ] BIT_XOR
+- [ ] COUNT
+- [ ] COUNTIF
+- [ ] LOGICAL_AND
+- [ ] LOGICAL_OR
+- [ ] MAX
+- [ ] MIN
+- [ ] STRING_AGG
+- [ ] SUM

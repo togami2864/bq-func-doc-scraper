@@ -1,0 +1,11 @@
+total count: 10 at https://cloud.google.com/bigquery/docs/reference/standard-sql/net_functions
+- [ ] NET.IP_FROM_STRING
+- [ ] NET.SAFE_IP_FROM_STRING
+- [ ] NET.IP_TO_STRING
+- [ ] NET.IP_NET_MASK
+- [ ] NET.IP_TRUNC
+- [ ] NET.IPV4_FROM_INT64
+- [ ] NET.IPV4_TO_INT64
+- [ ] NET.HOST
+- [ ] NET.PUBLIC_SUFFIX
+- [ ] NET.REG_DOMAIN

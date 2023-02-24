@@ -1,0 +1,11 @@
+total count: 10 at https://cloud.google.com/bigquery/docs/reference/standard-sql/datetime_functions
+- [ ] CURRENT_DATETIME
+- [ ] DATETIME
+- [ ] EXTRACT
+- [ ] DATETIME_ADD
+- [ ] DATETIME_SUB
+- [ ] DATETIME_DIFF
+- [ ] DATETIME_TRUNC
+- [ ] FORMAT_DATETIME
+- [ ] LAST_DAY
+- [ ] PARSE_DATETIME

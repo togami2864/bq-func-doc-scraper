@@ -1,0 +1,7 @@
+total count: 6 at https://cloud.google.com/bigquery/docs/reference/standard-sql/numbering_functions
+- [ ] RANK
+- [ ] DENSE_RANK
+- [ ] PERCENT_RANK
+- [ ] CUME_DIST
+- [ ] NTILE
+- [ ] ROW_NUMBER

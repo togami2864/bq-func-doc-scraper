@@ -1,0 +1,10 @@
+total count: 9 at https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions
+- [ ] CORR
+- [ ] COVAR_POP
+- [ ] COVAR_SAMP
+- [ ] STDDEV_POP
+- [ ] STDDEV_SAMP
+- [ ] STDDEV
+- [ ] VAR_POP
+- [ ] VAR_SAMP
+- [ ] VARIANCE
